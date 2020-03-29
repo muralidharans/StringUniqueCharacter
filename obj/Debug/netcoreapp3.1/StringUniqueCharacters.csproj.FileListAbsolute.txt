@@ -1,0 +1,11 @@
+C:\Projects_Training\StringUniqueCharacters\bin\Debug\netcoreapp3.1\StringUniqueCharacters.exe
+C:\Projects_Training\StringUniqueCharacters\bin\Debug\netcoreapp3.1\StringUniqueCharacters.deps.json
+C:\Projects_Training\StringUniqueCharacters\bin\Debug\netcoreapp3.1\StringUniqueCharacters.runtimeconfig.json
+C:\Projects_Training\StringUniqueCharacters\bin\Debug\netcoreapp3.1\StringUniqueCharacters.runtimeconfig.dev.json
+C:\Projects_Training\StringUniqueCharacters\bin\Debug\netcoreapp3.1\StringUniqueCharacters.dll
+C:\Projects_Training\StringUniqueCharacters\bin\Debug\netcoreapp3.1\StringUniqueCharacters.pdb
+C:\Projects_Training\StringUniqueCharacters\obj\Debug\netcoreapp3.1\StringUniqueCharacters.csprojAssemblyReference.cache
+C:\Projects_Training\StringUniqueCharacters\obj\Debug\netcoreapp3.1\StringUniqueCharacters.AssemblyInfoInputs.cache
+C:\Projects_Training\StringUniqueCharacters\obj\Debug\netcoreapp3.1\StringUniqueCharacters.AssemblyInfo.cs
+C:\Projects_Training\StringUniqueCharacters\obj\Debug\netcoreapp3.1\StringUniqueCharacters.dll
+C:\Projects_Training\StringUniqueCharacters\obj\Debug\netcoreapp3.1\StringUniqueCharacters.pdb
