@@ -29,7 +29,7 @@ namespace StringUniqueCharacters
         static void Main(string[] args)
         {
             Console.WriteLine(isuniquechars("Muralidharan"));
-            Console.WriteLine("Hello World!");
+           // Console.WriteLine("Hello World!");
         }
     }
 }
